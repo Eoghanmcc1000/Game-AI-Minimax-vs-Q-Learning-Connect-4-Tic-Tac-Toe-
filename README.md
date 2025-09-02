@@ -57,7 +57,7 @@ python TicTacToe/test.py
 ### Tic-Tac-Toe
 - **Minimax (optimal):** ~88% win rate as first player
 - **Alpha-Beta Pruning:** >95% reduction in states explored with same win rate
-- **Q-Learning:** ~90% vs Random, but drops sharply vs strategic opponents
+- **Q-Learning (1M episodes):** ~90% vs Random, but drops sharply vs strategic opponents
 - **Head-to-Head:** Minimax always outperforms Q-Learning
 
 ### Connect 4
