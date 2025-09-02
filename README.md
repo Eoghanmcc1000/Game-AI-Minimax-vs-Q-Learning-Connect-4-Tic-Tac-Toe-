@@ -6,7 +6,6 @@ The implementations are benchmarked on **win rates, computational efficiency, an
 ---
 
 ## 📂 Project Structure
-
 ├── Connect4/
 │ ├── QLearning.py # Minimax & Q-Learning implementations + simulations
 │ ├── board.py # Connect4 board logic
