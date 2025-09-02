@@ -7,17 +7,18 @@ The implementations are benchmarked on **win rates, computational efficiency, an
 
 ## 📂 Project Structure
 ├── Connect4/
-│ ├── QLearning.py # Minimax & Q-Learning implementations + simulations
-│ ├── board.py # Connect4 board logic
-│ ├── Coin.py # Game piece definitions
-│ ├── Constant.py # Game constants
-│ ├── exceptions.py # Custom exceptions
+│   ├── QLearning.py         # Minimax & Q-Learning implementations + simulations
+│   ├── board.py             # Connect4 board logic
+│   ├── Coin.py              # Game piece definitions
+│   ├── Constant.py          # Game constants
+│   └── exceptions.py        # Custom exceptions
 │
 ├── TicTacToe/
-│ ├── test.py # Minimax and Q-Learning for Tic-Tac-Toe
+│   └── test.py              # Minimax and Q-Learning for Tic-Tac-Toe
 │
-├── results/ # Experimental results & plots
-├── README.md # You are here
+├── results/                 # Experimental results & plots
+├── README.md                # You are here
+└── A1_Assignment.pdf        # Full report, results, and appendix
 
 ---
 
