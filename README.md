@@ -30,19 +30,19 @@ This project implements classical search algorithms (Minimax with and without Al
 ```bash
 python Connect4/QLearning.py
 ```
-*(uncomment the training block inside QLearning.py)*
+
 
 **Test a trained agent:**
 ```bash
 python Connect4/QLearning.py
 ```
-*(uncomment the testing block with `test_saved_qtable` and ensure .pkl file exists)*
+
 
 **Run Minimax simulations:**
 ```bash
 python Connect4/QLearning.py
 ```
-*(uncomment either the `run_minimax_simulations` block for with/without pruning)*
+
 
 ### Tic-Tac-Toe
 
@@ -50,7 +50,6 @@ python Connect4/QLearning.py
 ```bash
 python TicTacToe/test.py
 ```
-*(enable/disable scenarios inside main by commenting/uncommenting the relevant blocks)*
 
 ## 📊 Results Summary
 
